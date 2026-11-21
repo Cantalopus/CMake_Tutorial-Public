@@ -1,0 +1,12 @@
+Can download course material here:
+
+https://cmake.org/cmake/help/latest/_downloads/22ae22ea0b4756db635e9d22634756e9/cmake-4.5.1-tutorial-source.zip
+
+CMake website:
+
+https://cmake.org/download/
+
+Note: If using a Visual Studio-provided development environment, 
+it is best to run CMake from inside a Developer Command Prompt 
+or Developer Powershell. This ensures CMake has access to all the 
+required developer tooling and environment variables.
